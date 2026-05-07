@@ -74,9 +74,8 @@
 
 <br/>
 
-<div align="center">
-  <img src="./profile/stats.svg" alt="Farooq Zehri's Elite Stats" width="400" />
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farooqzehri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=0070f3&icon_color=0070f3&text_color=8b8b8b&rank_icon=github&include_all_commits=true&count_private=true)](https://github.com/farooqzehri)
+why this image is not runing
 
 <br/>
 
