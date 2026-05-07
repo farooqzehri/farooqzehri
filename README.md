@@ -1,434 +1,130 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      HERO BANNER SVG                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--═══════════════════════════════════════════════════════════════-->
+<!--                      HERO BANNER                             -->
+<!--═══════════════════════════════════════════════════════════════-->
 
-<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0070f3&height=2"/>
+
+<br/>
+
+```
+███████╗ █████╗ ██████╗  ██████╗  ██████╗  ██████╗
+██╔════╝██╔══██╗██╔══██╗██╔═══██╗██╔═══██╗██╔═══██╗
+█████╗  ███████║██████╔╝██║   ██║██║   ██║██║   ██║
+██╔══╝  ██╔══██║██╔══██╗██║   ██║██║   ██║██║▄▄ ██║
+██║     ██║  ██║██║  ██║╚██████╔╝╚██████╔╝╚██████╔╝
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚══▀▀═╝
+```
+
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0070f3&height=2"/>
+
+<br/>
+
+<!-- SVG LUXURY MONOGRAM MARK -->
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#020814;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#0a0f1e;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#050d20;stop-opacity:1" />
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0070f3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00a8ff;stop-opacity:1" />
     </linearGradient>
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0047ff;stop-opacity:0" />
-      <stop offset="30%" style="stop-color:#0ea5e9;stop-opacity:1" />
-      <stop offset="70%" style="stop-color:#3b82f6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0047ff;stop-opacity:0" />
-    </linearGradient>
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#e2e8f0" />
-      <stop offset="50%" style="stop-color:#ffffff" />
-      <stop offset="100%" style="stop-color:#94a3b8" />
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="subtleGlow">
-      <feGaussianBlur stdDeviation="1.5" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
   </defs>
-
-  <!-- Background -->
-  <rect width="900" height="200" fill="url(#bgGrad)" rx="12"/>
-
-  <!-- Grid lines -->
-  <line x1="0" y1="40" x2="900" y2="40" stroke="#0ea5e9" stroke-width="0.2" stroke-opacity="0.15"/>
-  <line x1="0" y1="80" x2="900" y2="80" stroke="#0ea5e9" stroke-width="0.2" stroke-opacity="0.15"/>
-  <line x1="0" y1="120" x2="900" y2="120" stroke="#0ea5e9" stroke-width="0.2" stroke-opacity="0.15"/>
-  <line x1="0" y1="160" x2="900" y2="160" stroke="#0ea5e9" stroke-width="0.2" stroke-opacity="0.15"/>
-  <line x1="180" y1="0" x2="180" y2="200" stroke="#0ea5e9" stroke-width="0.2" stroke-opacity="0.1"/>
-  <line x1="360" y1="0" x2="360" y2="200" stroke="#0ea5e9" stroke-width="0.2" stroke-opacity="0.1"/>
-  <line x1="540" y1="0" x2="540" y2="200" stroke="#0ea5e9" stroke-width="0.2" stroke-opacity="0.1"/>
-  <line x1="720" y1="0" x2="720" y2="200" stroke="#0ea5e9" stroke-width="0.2" stroke-opacity="0.1"/>
-
-  <!-- Corner accents -->
-  <path d="M0,0 L40,0 L40,3 L3,3 L3,40 L0,40 Z" fill="#0ea5e9" opacity="0.6"/>
-  <path d="M900,0 L860,0 L860,3 L897,3 L897,40 L900,40 Z" fill="#0ea5e9" opacity="0.6"/>
-  <path d="M0,200 L40,200 L40,197 L3,197 L3,160 L0,160 Z" fill="#0ea5e9" opacity="0.6"/>
-  <path d="M900,200 L860,200 L860,197 L897,197 L897,160 L900,160 Z" fill="#0ea5e9" opacity="0.6"/>
-
-  <!-- Decorative circles -->
-  <circle cx="82" cy="100" r="38" stroke="#0ea5e9" stroke-width="0.5" fill="none" opacity="0.2"/>
-  <circle cx="82" cy="100" r="28" stroke="#3b82f6" stroke-width="0.8" fill="none" opacity="0.3"/>
-  <circle cx="82" cy="100" r="16" fill="#0f172a" stroke="#0ea5e9" stroke-width="1.2" opacity="0.8"/>
-  <text x="82" y="105" text-anchor="middle" font-family="monospace" font-size="14" fill="#0ea5e9" filter="url(#glow)">FK</text>
-
-  <!-- Accent line top -->
-  <rect x="0" y="0" width="900" height="2" fill="url(#lineGrad)" rx="1"/>
-  <!-- Accent line bottom -->
-  <rect x="0" y="198" width="900" height="2" fill="url(#lineGrad)" rx="1"/>
-
-  <!-- Main heading -->
-  <text x="480" y="72" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#0ea5e9" letter-spacing="6" opacity="0.9" filter="url(#subtleGlow)">FULL-STACK ENGINEER  ·  UI/UX SPECIALIST</text>
-
-  <text x="480" y="118" text-anchor="middle" font-family="Georgia, serif" font-size="28" font-weight="700" fill="url(#textGrad)" letter-spacing="1" filter="url(#subtleGlow)">Farooq Zehri</text>
-
-  <!-- Tagline -->
-  <text x="480" y="150" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#64748b" letter-spacing="2">Architecting High-Performance Digital Experiences</text>
-
-  <!-- Bottom status indicators -->
-  <circle cx="380" cy="176" r="3.5" fill="#22c55e" opacity="0.9"/>
-  <text x="390" y="180" font-family="monospace" font-size="9" fill="#64748b" letter-spacing="1">AVAILABLE FOR REMOTE ROLES</text>
-  <circle cx="640" cy="176" r="3.5" fill="#0ea5e9" opacity="0.9"/>
-  <text x="650" y="180" font-family="monospace" font-size="9" fill="#64748b" letter-spacing="1">OPEN TO COLLABORATION</text>
+  <rect width="120" height="120" rx="8" fill="#0a0a0a" stroke="#0070f3" stroke-width="1"/>
+  <text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Georgia, serif" font-size="52" font-weight="700"
+        fill="url(#blueGrad)" letter-spacing="2">FZ</text>
+  <rect x="22" y="80" width="76" height="1" fill="#0070f3" opacity="0.6"/>
+  <text x="50%" y="93%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Georgia, serif" font-size="7" fill="#555" letter-spacing="4">PRODUCT ARCHITECT</text>
 </svg>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      ABOUT SECTION                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  Product-driven engineer bridging high-end UI/UX with scalable      │
-│  full-stack logic. Specialized in e-commerce performance systems    │
-│  and modern web ecosystems built for conversion and growth.         │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="50%" valign="top">
-
-**⚡ Current Focus**
-```yaml
-role:       Full-Stack Engineer & UI/UX Specialist
-focus:      Scaling e-commerce brands with Next.js
-mission:    Convert visitors into revenue
-building:   High-performance storefronts & platforms
-```
-
-</td>
-<td width="50%" valign="top">
-
-**◈ Engineering Philosophy**
-```yaml
-approach:   Design-first, then engineer
-principle:  Every pixel and every query matters
-obsession:  Sub-2s load times & 90+ Lighthouse scores
-belief:     Great UX is a business strategy
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `〈/〉` Technical Arsenal
-
-<br/>
-
-<div align="center">
-
-### ▸ Frontend Engineering
-
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-0f172a?style=for-the-badge&logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com)
-[![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-### ▸ Backend & Database
-
-[![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Firebase](https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://firebase.google.com)
-[![Supabase](https://img.shields.io/badge/Supabase-0f172a?style=for-the-badge&logo=supabase&logoColor=3ECF8E)](https://supabase.com)
-[![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=339933)](https://nodejs.org)
-
-### ▸ Design & Tooling
-
-[![Figma](https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E)](https://figma.com)
-[![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-0f172a?style=for-the-badge&logo=adobe-xd&logoColor=FF61F6)](https://www.uxdesigninstitute.com)
-[![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com)
-[![Vercel](https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    COMPETENCY DASHBOARD                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `◈` Competency Dashboard
-
-<br/>
-
-<div align="center">
-<table border="0" cellspacing="8" cellpadding="12">
-<tr>
-<td align="center" width="180" style="border: 1px solid #1e293b; background: #0a0f1e; border-radius: 8px; padding: 16px;">
-
-**Frontend**
-```
-Next.js      ████████████ 95%
-React        ███████████░ 90%
-Tailwind     ████████████ 95%
-Bootstrap    ██████████░░ 85%
-```
-
-</td>
-<td align="center" width="180" style="border: 1px solid #1e293b; background: #0a0f1e; border-radius: 8px; padding: 16px;">
-
-**Backend & DB**
-```
-JavaScript   ████████████ 92%
-Firebase     ██████████░░ 85%
-Supabase     █████████░░░ 80%
-REST APIs    ████████████ 90%
-```
-
-</td>
-<td align="center" width="180" style="border: 1px solid #1e293b; background: #0a0f1e; border-radius: 8px; padding: 16px;">
-
-**Design**
-```
-UI/UX        ████████████ 93%
-Figma        ██████████░░ 85%
-HTML5/CSS3   ████████████ 96%
-Responsive   ████████████ 95%
-```
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED CASE STUDIES                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `◎` Featured Case Studies
-
-> *Selected solutions engineered for scale, performance, and measurable impact.*
-
-<br/>
-
-<table border="0" cellspacing="12" cellpadding="0">
-
-<!-- PROJECT 01 -->
-<tr>
-<td width="48%" valign="top">
-
-### `[01]` E-Commerce Ecosystem
-
-```
-CATEGORY  ›  High-Conversion Storefront
-SCOPE     ›  Full-Stack E-Commerce Platform
-METRIC    ›  Performance + Sales Architecture
-```
-
-A production-grade e-commerce platform engineered around a single KPI: **conversion**. Built with Next.js SSR for SEO dominance, real-time cart management via Supabase, and a checkout UX optimized to eliminate abandonment friction. Every component is benchmarked against Lighthouse metrics before shipping.
-
-**Core Engineering:**
-- `Next.js` SSR/SSG for sub-1s page loads
-- `Supabase` for real-time inventory & order state
-- `Tailwind CSS` pixel-perfect product UI
-- Payment gateway integration & secure auth flow
-
-[![View Repository](https://img.shields.io/badge/View_Repository-0ea5e9?style=flat-square&logo=github&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](#)
-
-</td>
-<td width="4%"></td>
-<td width="48%" valign="top">
-
-### `[02]` Marketplace Architecture — Daraz Clone
-
-```
-CATEGORY  ›  Multi-Vendor Platform Clone
-SCOPE     ›  Complex UI/UX Systems Design
-METRIC    ›  Scale + Architecture Fidelity
-```
-
-A deep-dive systems clone of Pakistan's largest e-commerce marketplace. This isn't a template — it's a re-engineering challenge. Deconstructed multi-vendor logic, seller dashboards, product discovery flows, and dynamic category trees from scratch. Built to understand scale at the architectural level.
-
-**Core Engineering:**
-- `React` component library (100+ components)
-- `Firebase` multi-auth (buyers, sellers, admin)
-- `Figma`-driven design system replicated to spec
-- Advanced filtering, search & catalog architecture
-
-[![View Repository](https://img.shields.io/badge/View_Repository-0ea5e9?style=flat-square&logo=github&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](#)
-
-</td>
-</tr>
-
-<tr><td colspan="3"><br/></td></tr>
-
-<!-- PROJECT 03 -->
-<tr>
-<td width="48%" valign="top">
-
-### `[03]` Real-Time Weather Engine
-
-```
-CATEGORY  ›  API Integration & Data Delivery
-SCOPE     ›  Live Geospatial Weather Interface
-METRIC    ›  Response Time + Data Fidelity
-```
-
-A precision weather intelligence interface consuming third-party meteorological APIs with zero-latency UX feedback loops. Geo-location-aware, with animated condition states and a dashboard design that makes raw weather data instantly readable. Engineering focus: graceful loading, error boundary handling, and API rate optimization.
-
-**Core Engineering:**
-- `OpenWeatherMap` API + geolocation integration
-- `JavaScript ES6+` async/await data orchestration
-- `CSS3` animated weather condition states
-- Debounced city search with predictive UX
-
-[![View Repository](https://img.shields.io/badge/View_Repository-0ea5e9?style=flat-square&logo=github&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](#)
-
-</td>
-<td width="4%"></td>
-<td width="48%" valign="top">
-
-### `[04]` Content Management System — Blog Engine
-
-```
-CATEGORY  ›  Full-Stack CMS & Data Persistence
-SCOPE     ›  Editorial Platform & Auth System
-METRIC    ›  UX Fluency + Write/Read Performance
-```
-
-A full-cycle blogging CMS where the UI tells the story before the content does. Rich text editing, user authentication, post categorization, and a reading experience designed to reduce bounce rate through typography and spacing systems. Backend built on Firebase for real-time draft saving and instant publish.
-
-**Core Engineering:**
-- `Firebase` Firestore real-time data persistence
-- `React` rich text editor integration
-- `Next.js` dynamic routing for SEO-clean URLs
-- Role-based auth: reader, author, admin tiers
-
-[![View Repository](https://img.shields.io/badge/View_Repository-0ea5e9?style=flat-square&logo=github&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](#)
-
-</td>
-</tr>
-
-</table>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB STATS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `◐` Performance Metrics
-
-<br/>
-
-<div align="center">
-
-<!-- GitHub Trophies -->
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=farooqZehri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/farooqZehri)
 
 <br/><br/>
 
-<!-- Stats Cards in a Grid -->
-<table border="0" cellspacing="8" cellpadding="0">
-<tr>
-<td>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farooqZehri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=3b82f6&text_color=94a3b8&rank_icon=github)](https://github.com/farooqZehri)
-
-</td>
-<td>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farooqZehri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=8)](https://github.com/farooqZehri)
-
-</td>
-</tr>
-</table>
-
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=farooqZehri&theme=tokyonight&hide_border=true&background=0d1117&stroke=1e293b&ring=0ea5e9&fire=3b82f6&currStreakLabel=94a3b8&sideLabels=64748b&dates=475569)](https://github.com/farooqZehri)
+# THE ARCHITECTURE OF CONVERSION
+### *Where Elite Design Meets Scalable Logic.*
 
 <br/>
 
-<!-- Activity Graph -->
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=farooqZehri&bg_color=0d1117&color=0ea5e9&line=3b82f6&point=60a5fa&area=true&area_color=0ea5e9&hide_border=true)](https://github.com/farooqZehri)
+> *Bespoke digital solutions engineered at the intersection of aesthetic perfection and engineering rigor.*
+> *Not lines of code — deliberate acts of craft.*
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&size=18&pause=1200&color=0070F3&center=true&vCenter=true&width=600&lines=Product+Architect+%26+Full-Stack+Engineer;E-Commerce+Dominance+Strategist;Next.js+%7C+React+%7C+Firebase+Specialist;Building+Systems+That+Convert.)
+
+<br/>
+
+<img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a2e&height=1"/>
 
 </div>
 
 <br/>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONTACT / RECRUITER CTA                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `◉` Let's Build Something Significant
-
-<br/>
+<!--═══════════════════════════════════════════════════════════════-->
+<!--               EXECUTIVE DASHBOARD — DUAL COLUMN              -->
+<!--═══════════════════════════════════════════════════════════════-->
 
 <div align="center">
 
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│                                                                        │
-│   I'm selectively open to high-impact remote opportunities with        │
-│   product-led companies, scaling e-commerce brands, and teams          │
-│   that treat engineering quality as a competitive advantage.           │
-│                                                                        │
-│   Current Focus →  Scaling e-commerce brands & mastering              │
-│                    Next.js architecture at production scale.           │
-│                                                                        │
-└────────────────────────────────────────────────────────────────────────┘
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="52%" valign="top" align="center">
+
+### 〔 PROOF OF WORK 〕
+
+<br/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farooqzehri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=0070f3&icon_color=0070f3&text_color=8b8b8b&rank_icon=github&include_all_commits=true&count_private=true)](https://github.com/farooqzehri)
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=farooqzehri&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=0070f3&fire=0070f3&currStreakLabel=0070f3&sideLabels=8b8b8b&dates=555555)](https://github.com/farooqzehri)
+
+<br/>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farooqzehri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=0070f3&text_color=8b8b8b&langs_count=6)](https://github.com/farooqzehri)
+
+</td>
+<td width="4%"></td>
+<td width="44%" valign="top" align="left">
+
+### 〔 CORE DOCTRINE 〕
+
+<br/>
+
+```yaml
+architect:
+  name:     "Farooq Zehri"
+  title:    "Product Architect"
+  focus:    "E-Commerce Dominance"
+  standard: "Bespoke or Nothing"
+
+philosophy:
+  - "Precision over proliferation"
+  - "Systems that scale silently"
+  - "Aesthetic IS function"
+  - "Every pixel earns its place"
+
+current_directive:
+  - "Next.js 15+ Server Components"
+  - "High-Conversion Frameworks"
+  - "Multi-Vendor Architecture"
+
+availability:
+  status:   "Selective Engagements"
+  tier:     "Senior / Principal"
 ```
 
 <br/>
 
-<table border="0" cellspacing="16" cellpadding="0">
-<tr>
-<td align="center">
+**`— THE PRINCIPLES —`**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farooqZehri)
-
-`Professional Network`
-
-</td>
-<td align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_Work-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://farooqZehri.dev)
-
-`Case Studies & Work`
-
-</td>
-<td align="center">
-
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farooq@email.com)
-
-`Direct Contact`
+| Pillar | Execution |
+|:--|:--|
+| 🔷 Precision | Pixel-perfect, zero compromise |
+| 🔷 Scalability | Architected for 10× growth |
+| 🔷 Aesthetics | Design as competitive advantage |
+| 🔷 Bespoke | No templates. No shortcuts. |
 
 </td>
 </tr>
@@ -438,30 +134,231 @@ A full-cycle blogging CMS where the UI tells the story before the content does. 
 
 <br/>
 
----
+<div align="center"><img width="80%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0070f3&height=1&opacity=30"/></div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       FOOTER                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<br/>
+
+<!--═══════════════════════════════════════════════════════════════-->
+<!--                    TROPHY CASE                               -->
+<!--═══════════════════════════════════════════════════════════════-->
 
 <div align="center">
 
-<svg width="600" height="40" viewBox="0 0 600 40" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0047ff;stop-opacity:0"/>
-      <stop offset="30%" style="stop-color:#0ea5e9;stop-opacity:0.8"/>
-      <stop offset="70%" style="stop-color:#3b82f6;stop-opacity:0.8"/>
-      <stop offset="100%" style="stop-color:#0047ff;stop-opacity:0"/>
-    </linearGradient>
-  </defs>
-  <rect x="0" y="18" width="600" height="1" fill="url(#footerGrad)"/>
-  <text x="300" y="14" text-anchor="middle" font-family="monospace" font-size="9" fill="#475569" letter-spacing="3">FAROOQ Zehri  ·  FULL-STACK ENGINEER  ·  UI/UX SPECIALIST</text>
-  <text x="300" y="32" text-anchor="middle" font-family="monospace" font-size="8" fill="#334155" letter-spacing="2">ENGINEERING QUALITY IS NOT A COST — IT'S A MULTIPLIER</text>
+### 〔 THE TROPHY CASE 〕
+*S — SS — A Tier Achievements Only*
+
+<br/>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=farooqzehri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&rank=SS,S,AAA,AA,A&column=6)](https://github.com/farooqzehri)
+
+</div>
+
+<br/>
+
+<div align="center"><img width="80%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0070f3&height=1&opacity=30"/></div>
+
+<br/>
+
+<!--═══════════════════════════════════════════════════════════════-->
+<!--                  TOOLKIT OF EXCELLENCE                       -->
+<!--═══════════════════════════════════════════════════════════════-->
+
+<div align="center">
+
+### 〔 THE TOOLKIT OF EXCELLENCE 〕
+*Instruments selected for precision, not familiarity.*
+
+<br/>
+
+**`INTERFACE ENGINEERING`**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=flat-square&logo=tailwind-css&logoColor=38bdf8)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3b82f6)
+![HTML5](https://img.shields.io/badge/HTML5-1c1c1c?style=flat-square&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-1c1c1c?style=flat-square&logo=css3&logoColor=0070f3)
+
+<br/>
+
+**`LOGIC & PERSISTENCE`**
+
+![Firebase](https://img.shields.io/badge/Firebase-1c1c1c?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-1c1c1c?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![JavaScript](https://img.shields.io/badge/ES6+_Architecture-1c1c1c?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-1c1c1c?style=flat-square&logo=node.js&logoColor=339933)
+![REST API](https://img.shields.io/badge/REST_API-1c1c1c?style=flat-square&logo=fastapi&logoColor=0070f3)
+
+<br/>
+
+**`CREATIVE DIRECTION`**
+
+![Figma](https://img.shields.io/badge/Figma_Prototypes-1c1c1c?style=flat-square&logo=figma&logoColor=F24E1E)
+![UI/UX](https://img.shields.io/badge/UI%2FUX_Theory-1c1c1c?style=flat-square&logo=adobe-xd&logoColor=FF61F6)
+![Design Systems](https://img.shields.io/badge/Visual_Systems-1c1c1c?style=flat-square&logo=storybook&logoColor=FF4785)
+![Vercel](https://img.shields.io/badge/Vercel_Deployment-1c1c1c?style=flat-square&logo=vercel&logoColor=ffffff)
+
+</div>
+
+<br/>
+
+<div align="center"><img width="80%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0070f3&height=1&opacity=30"/></div>
+
+<br/>
+
+<!--═══════════════════════════════════════════════════════════════-->
+<!--                  CASE STUDY GALLERY                          -->
+<!--═══════════════════════════════════════════════════════════════-->
+
+<div align="center">
+
+### 〔 INDUSTRIAL SOLUTIONS 〕
+*Not projects. Engineered outcomes.*
+
+</div>
+
+<br/>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+
+<td width="33%" valign="top">
+
+**`01 — THE GLOBAL MARKETPLACE`**
+
+> Multi-vendor architecture optimized for high-volume sales velocity. Scalable seller onboarding, real-time inventory logic, and conversion-first checkout flows.
+
+```
+Stack:  Next.js · Supabase · Stripe
+Domain: Multi-Vendor Commerce
+Grade:  Production · Scalable
+```
+
+[![View](https://img.shields.io/badge/VIEW_CASE_STUDY-0070f3?style=flat-square&logoColor=white)](#)
+
+</td>
+
+<td width="2%"></td>
+
+<td width="33%" valign="top">
+
+**`02 — THE CONVERSION ENGINE`**
+
+> An e-commerce ecosystem architected for market dominance. A/B tested UX flows, performance-budgeted rendering, and data-driven product discovery.
+
+```
+Stack:  Next.js · Firebase · Tailwind
+Domain: E-Commerce Optimization
+Grade:  Production · High-Conversion
+```
+
+[![View](https://img.shields.io/badge/VIEW_CASE_STUDY-0070f3?style=flat-square&logoColor=white)](#)
+
+</td>
+
+<td width="2%"></td>
+
+<td width="30%" valign="top">
+
+**`03 — THE INTELLIGENCE HUB`**
+
+> Real-time data delivery via refined API integration. Live dashboards, webhook-driven pipelines, and sub-100ms response architecture.
+
+```
+Stack:  React · REST API · Node.js
+Domain: Real-Time Data Systems
+Grade:  Production · Low-Latency
+```
+
+[![View](https://img.shields.io/badge/VIEW_CASE_STUDY-0070f3?style=flat-square&logoColor=white)](#)
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center"><img width="80%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0070f3&height=1&opacity=30"/></div>
+
+<br/>
+
+<!--═══════════════════════════════════════════════════════════════-->
+<!--              ACTIVITY GRAPH                                  -->
+<!--═══════════════════════════════════════════════════════════════-->
+
+<div align="center">
+
+### 〔 VELOCITY GRAPH 〕
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farooqzehri&bg_color=0d0d0d&color=0070f3&line=0070f3&point=ffffff&area=true&area_color=0070f3&hide_border=true)](https://github.com/farooqzehri)
+
+</div>
+
+<br/>
+
+<div align="center"><img width="80%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0070f3&height=1&opacity=30"/></div>
+
+<br/>
+
+<!--═══════════════════════════════════════════════════════════════-->
+<!--              EXECUTIVE INQUIRY / CONTACT                     -->
+<!--═══════════════════════════════════════════════════════════════-->
+
+<div align="center">
+
+### 〔 STRATEGIC PARTNERSHIPS & INQUIRIES 〕
+
+<br/>
+
+*Currently accepting a limited number of high-caliber engagements.*
+
+<br/>
+
+> **Current Directive:** Developing high-conversion e-commerce frameworks
+> and mastering Next.js 15+ Server Components for enterprise-grade deployments.
+
+<br/>
+
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td align="center" style="padding: 0 12px;">
+
+[![Portfolio](https://img.shields.io/badge/THE_SHOWCASE-0070f3?style=for-the-badge&logoColor=white&logo=vercel)](https://farooqzehri.dev)
+
+</td>
+<td align="center" style="padding: 0 12px;">
+
+[![LinkedIn](https://img.shields.io/badge/THE_NETWORK-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farooqzehri)
+
+</td>
+<td align="center" style="padding: 0 12px;">
+
+[![Email](https://img.shields.io/badge/THE_DIRECT_LINE-1c1c1c?style=for-the-badge&logo=gmail&logoColor=0070f3)](mailto:farooq@zehri.dev)
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+<!-- CLOSING MARK -->
+<svg width="200" height="30" viewBox="0 0 200 30" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="15" x2="72" y2="15" stroke="#1a1a1a" stroke-width="1"/>
+  <text x="100" y="20" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#333" letter-spacing="6">ZEHRI</text>
+  <line x1="128" y1="15" x2="200" y2="15" stroke="#1a1a1a" stroke-width="1"/>
 </svg>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=farooqZehri&color=0ea5e9&style=flat-square&label=PROFILE+VIEWS)
+<sub>*Crafted with precision. Engineered for dominance.*</sub>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=farooqzehri&style=flat-square&color=0070f3&label=PROFILE+VIEWS)
+
+<br/>
+
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0070f3&height=2"/>
 
 </div>
