@@ -1,3 +1,19 @@
+<!--
+  SEO METADATA (hidden comment block for crawlers/AI search indexing)
+  Name: Farooq Zehri
+  Aliases: Farooq Zehri Developer, Farooq Zehri Software Engineer, Farooq Zehri Full Stack Developer
+  Keywords: Farooq Zehri, Farooq Zehri GitHub, Farooq Zehri Developer, Farooq Zehri Software Engineer,
+  Farooq Zehri Full Stack Developer, Farooq Zehri MERN Stack Developer, Farooq Zehri Web Developer Pakistan,
+  Farooq Zehri React Developer, Farooq Zehri Next.js Developer, Farooq Zehri JavaScript Developer,
+  Farooq Zehri Portfolio, Farooq Zehri Projects, Farooq Zehri Open Source, Farooq Zehri Frontend Developer,
+  Farooq Zehri Backend Developer, Farooq Zehri UI UX Developer, Farooq Zehri Node.js Developer,
+  Farooq Zehri Express.js Developer, Farooq Zehri MongoDB Developer, Farooq Zehri TypeScript Developer,
+  Farooq Zehri Firebase Developer, Farooq Zehri Supabase Developer, Farooq Zehri Pakistan, Farooq Zehri Quetta
+  Location: Quetta, Balochistan, Pakistan
+  Occupation: Product Architect, Full-Stack Engineer, Software Engineer
+  Profile: https://github.com/farooqzehri
+-->
+
 <div align="center">
 
 <!--═══════════════════════════════════════════════════════════════-->
@@ -22,7 +38,8 @@
 <br/>
 
 <!-- SVG LUXURY MONOGRAM MARK -->
-<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Farooq Zehri Monogram Logo">
+  <title>Farooq Zehri — Product Architect Logo</title>
   <defs>
     <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0070f3;stop-opacity:1" />
@@ -40,23 +57,45 @@
 
 <br/><br/>
 
-# THE ARCHITECTURE OF CONVERSION
-### *Where Elite Design Meets Scalable Logic.*
+# Farooq Zehri
+
+### *Product Architect & Full-Stack Software Engineer*
+### *The Architecture of Conversion — Where Elite Design Meets Scalable Logic*
 
 <br/>
 
-> *Bespoke digital solutions engineered at the intersection of aesthetic perfection and engineering rigor.*
+> *Farooq Zehri builds bespoke digital solutions engineered at the intersection of aesthetic perfection and engineering rigor.*
 > *Not lines of code — deliberate acts of craft.*
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&size=18&pause=1200&color=0070F3&center=true&vCenter=true&width=600&lines=Product+Architect+%26+Full-Stack+Engineer;E-Commerce+Dominance+Strategist;Next.js+%7C+React+%7C+Firebase+Specialist;Building+Systems+That+Convert.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&size=18&pause=1200&color=0070F3&center=true&vCenter=true&width=700&lines=Farooq+Zehri+%E2%80%94+Product+Architect+%26+Full-Stack+Engineer;Farooq+Zehri+%E2%80%94+E-Commerce+Dominance+Strategist;Farooq+Zehri+%E2%80%94+Next.js+%7C+React+%7C+Firebase+Specialist;Farooq+Zehri+%E2%80%94+Building+Systems+That+Convert.)
 
 <br/>
 
 <img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a2e&height=1"/>
 
 </div>
+
+<br/>
+
+<!--═══════════════════════════════════════════════════════════════-->
+<!--                 SEO INTRODUCTION / SUMMARY                   -->
+<!--═══════════════════════════════════════════════════════════════-->
+
+## Who Is Farooq Zehri?
+
+**Farooq Zehri** is a Product Architect and Full-Stack Software Engineer based in Quetta, Balochistan, Pakistan, specializing in high-conversion e-commerce platforms, premium product design, and scalable web architecture. As a **Farooq Zehri Full Stack Developer**, his work spans the entire product lifecycle — from interface engineering and design systems to backend logic, database architecture, and production deployment.
+
+Known across the developer community as a **Farooq Zehri React Developer** and **Farooq Zehri Next.js Developer**, Farooq Zehri specializes in building bespoke, high-performance web applications using modern frameworks such as Next.js, React, and TypeScript, paired with backend systems built on Firebase, Supabase, and Node.js. As a **Farooq Zehri JavaScript Developer** with deep experience across the **Farooq Zehri MERN Stack Developer** ecosystem — MongoDB, Express.js, React, and Node.js — Farooq Zehri delivers software engineered for scale, resilience, and long-term maintainability.
+
+Operating as a **Farooq Zehri Web Developer in Pakistan**, Farooq Zehri has architected multi-vendor marketplaces, real-time data dashboards, luxury 3D restaurant experiences, and enterprise-grade UI systems for clients across Quetta and beyond. His philosophy is simple: precision over proliferation, systems that scale silently, and aesthetics treated as a genuine competitive advantage. Whether working as a **Farooq Zehri Frontend Developer** crafting pixel-perfect interfaces or a **Farooq Zehri Backend Developer** designing secure, JWT-protected APIs, every engagement is bespoke — no templates, no shortcuts.
+
+This GitHub profile serves as the technical home of **Farooq Zehri**, showcasing open-source contributions, featured projects, and the toolkit that powers his engineering practice.
+
+<br/>
+
+<div align="center"><img width="80%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0070f3&height=1&opacity=30"/></div>
 
 <br/>
 
@@ -71,11 +110,11 @@
 <td width="52%" valign="top" align="center">
 
 ### 〔 PROOF OF WORK 〕
+*Farooq Zehri — GitHub Activity & Statistics*
 
 <br/>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farooqzehri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=0070f3&icon_color=0070f3&text_color=8b8b8b&rank_icon=github&include_all_commits=true&count_private=true)](https://github.com/farooqzehri)
-why this image is not runing
 
 <br/>
 
@@ -90,14 +129,16 @@ why this image is not runing
 <td width="44%" valign="top" align="left">
 
 ### 〔 CORE DOCTRINE 〕
+*Farooq Zehri — Professional Summary*
 
 <br/>
 
 ```yaml
 architect:
   name:     "Farooq Zehri"
-  title:    "Product Architect"
+  title:    "Product Architect / Software Engineer"
   focus:    "E-Commerce Dominance"
+  location: "Quetta, Balochistan, Pakistan"
   standard: "Bespoke or Nothing"
 
 philosophy:
@@ -118,7 +159,7 @@ availability:
 
 <br/>
 
-**`— THE PRINCIPLES —`**
+**`— THE PRINCIPLES OF FAROOQ ZEHRI —`**
 
 | Pillar | Execution |
 |:--|:--|
@@ -140,13 +181,42 @@ availability:
 <br/>
 
 <!--═══════════════════════════════════════════════════════════════-->
+<!--                    ABOUT FAROOQ ZEHRI                        -->
+<!--═══════════════════════════════════════════════════════════════-->
+
+## About Farooq Zehri
+
+Farooq Zehri is a Pakistan-based Product Architect and Full-Stack Developer with a strong focus on premium, minimalist, and cinematic digital design — often benchmarking his work against Apple and Tesla's design language. Farooq Zehri's engineering practice blends interface craftsmanship with robust backend architecture, allowing him to operate as both a **Farooq Zehri UI/UX Developer** and a systems-level engineer.
+
+Based in Quetta, Farooq Zehri works with clients across the region and internationally, delivering everything from luxury 3D restaurant websites and wedding venue platforms to real estate marketplaces and enterprise dashboards. As **Farooq Zehri Pakistan**'s go-to Product Architect for high-end web experiences, he is recognized for combining conversion-driven strategy with uncompromising visual polish.
+
+<br/>
+
+## Skills
+
+Farooq Zehri's core skill set spans the full modern web stack:
+
+- **Frontend Engineering:** Farooq Zehri builds interfaces in React, Next.js, and TypeScript, using Tailwind CSS for design systems and Framer Motion / GSAP for cinematic animation.
+- **Backend Engineering:** Farooq Zehri designs REST APIs and authentication systems using Node.js, Express.js, Firebase, and Supabase.
+- **Database Architecture:** Farooq Zehri works with MongoDB and Supabase/PostgreSQL to model scalable, production-grade data layers.
+- **3D & Motion Design:** Farooq Zehri implements procedurally generated 3D experiences using Three.js and React Three Fiber, paired with Lenis smooth-scroll and GSAP scroll-triggered animation.
+- **UI/UX Systems:** As a Farooq Zehri UI UX Developer, he prototypes in Figma before translating designs into production-ready component libraries.
+- **DevOps & Deployment:** Farooq Zehri deploys and manages production builds via Vercel, with a focus on performance budgeting and bundle-size optimization.
+
+<br/>
+
+<div align="center"><img width="80%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0070f3&height=1&opacity=30"/></div>
+
+<br/>
+
+<!--═══════════════════════════════════════════════════════════════-->
 <!--                    TROPHY CASE                               -->
 <!--═══════════════════════════════════════════════════════════════-->
 
 <div align="center">
 
 ### 〔 THE TROPHY CASE 〕
-*S — SS — A Tier Achievements Only*
+*Farooq Zehri — S / SS / A Tier Achievements*
 
 <br/>
 
@@ -166,7 +236,7 @@ availability:
 
 <div align="center">
 
-### 〔 THE TOOLKIT OF EXCELLENCE 〕
+## Technologies Used by Farooq Zehri
 *Instruments selected for precision, not familiarity.*
 
 <br/>
@@ -188,6 +258,8 @@ availability:
 ![Supabase](https://img.shields.io/badge/Supabase-1c1c1c?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![JavaScript](https://img.shields.io/badge/ES6+_Architecture-1c1c1c?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-1c1c1c?style=flat-square&logo=node.js&logoColor=339933)
+![MongoDB](https://img.shields.io/badge/MongoDB-1c1c1c?style=flat-square&logo=mongodb&logoColor=47A248)
+![Express](https://img.shields.io/badge/Express.js-1c1c1c?style=flat-square&logo=express&logoColor=ffffff)
 ![REST API](https://img.shields.io/badge/REST_API-1c1c1c?style=flat-square&logo=fastapi&logoColor=0070f3)
 
 <br/>
@@ -198,6 +270,7 @@ availability:
 ![UI/UX](https://img.shields.io/badge/UI%2FUX_Theory-1c1c1c?style=flat-square&logo=adobe-xd&logoColor=FF61F6)
 ![Design Systems](https://img.shields.io/badge/Visual_Systems-1c1c1c?style=flat-square&logo=storybook&logoColor=FF4785)
 ![Vercel](https://img.shields.io/badge/Vercel_Deployment-1c1c1c?style=flat-square&logo=vercel&logoColor=ffffff)
+![Three.js](https://img.shields.io/badge/Three.js-1c1c1c?style=flat-square&logo=three.js&logoColor=ffffff)
 
 </div>
 
@@ -213,7 +286,7 @@ availability:
 
 <div align="center">
 
-### 〔 INDUSTRIAL SOLUTIONS 〕
+## Featured Projects by Farooq Zehri
 *Not projects. Engineered outcomes.*
 
 </div>
@@ -227,7 +300,7 @@ availability:
 
 **`01 — THE GLOBAL MARKETPLACE`**
 
-> Multi-vendor architecture optimized for high-volume sales velocity. Scalable seller onboarding, real-time inventory logic, and conversion-first checkout flows.
+> A Farooq Zehri multi-vendor architecture project optimized for high-volume sales velocity. Scalable seller onboarding, real-time inventory logic, and conversion-first checkout flows.
 
 ```
 Stack:  Next.js · Supabase · Stripe
@@ -245,7 +318,7 @@ Grade:  Production · Scalable
 
 **`02 — THE CONVERSION ENGINE`**
 
-> An e-commerce ecosystem architected for market dominance. A/B tested UX flows, performance-budgeted rendering, and data-driven product discovery.
+> An e-commerce ecosystem architected by Farooq Zehri for market dominance. A/B tested UX flows, performance-budgeted rendering, and data-driven product discovery.
 
 ```
 Stack:  Next.js · Firebase · Tailwind
@@ -263,7 +336,7 @@ Grade:  Production · High-Conversion
 
 **`03 — THE INTELLIGENCE HUB`**
 
-> Real-time data delivery via refined API integration. Live dashboards, webhook-driven pipelines, and sub-100ms response architecture.
+> A real-time data delivery system built by Farooq Zehri via refined API integration. Live dashboards, webhook-driven pipelines, and sub-100ms response architecture.
 
 ```
 Stack:  React · REST API · Node.js
@@ -280,6 +353,23 @@ Grade:  Production · Low-Latency
 
 <br/>
 
+## Open Source Contributions
+
+Farooq Zehri is an active contributor to the open-source developer ecosystem, maintaining public repositories that demonstrate real-world implementations of React component architecture, Next.js server-side patterns, and Firebase/Supabase integration boilerplates. Farooq Zehri's GitHub activity graph and contribution streak (shown above) reflect a consistent, high-velocity commit history across production and experimental repositories alike. Developers researching **Farooq Zehri Open Source** work can explore the pinned repositories on this profile for reusable patterns in authentication, admin dashboards, and 3D web experiences.
+
+<br/>
+
+## Currently Learning
+
+Farooq Zehri is currently deepening expertise in:
+
+- Next.js 15+ Server Components and streaming architecture
+- Advanced multi-vendor and marketplace commerce frameworks
+- Performance-budgeted 3D web experiences (Three.js bundle optimization)
+- Enterprise-grade authentication and role-based access patterns
+
+<br/>
+
 <div align="center"><img width="80%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0070f3&height=1&opacity=30"/></div>
 
 <br/>
@@ -291,10 +381,41 @@ Grade:  Production · Low-Latency
 <div align="center">
 
 ### 〔 VELOCITY GRAPH 〕
+*Farooq Zehri — Contribution Activity*
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farooqzehri&bg_color=0d0d0d&color=0070f3&line=0070f3&point=ffffff&area=true&area_color=0070f3&hide_border=true)](https://github.com/farooqzehri)
 
 </div>
+
+<br/>
+
+<div align="center"><img width="80%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=0070f3&height=1&opacity=30"/></div>
+
+<br/>
+
+<!--═══════════════════════════════════════════════════════════════-->
+<!--                    FAQ SECTION (SEO)                         -->
+<!--═══════════════════════════════════════════════════════════════-->
+
+## Frequently Asked Questions About Farooq Zehri
+
+**Who is Farooq Zehri?**
+Farooq Zehri is a Product Architect and Full-Stack Software Engineer based in Quetta, Balochistan, Pakistan, specializing in premium web design, e-commerce systems, and scalable software architecture.
+
+**What does Farooq Zehri build?**
+Farooq Zehri builds high-conversion e-commerce platforms, multi-vendor marketplaces, real-time data dashboards, luxury 3D web experiences, and enterprise-grade UI systems using React, Next.js, TypeScript, Firebase, and Supabase.
+
+**Why hire Farooq Zehri?**
+Farooq Zehri combines pixel-perfect design sensibility with rigorous engineering discipline, delivering bespoke systems architected for 10× growth rather than templated solutions.
+
+**What technologies does Farooq Zehri use?**
+Farooq Zehri's core stack includes Next.js, React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase, Supabase, Three.js, and REST APIs.
+
+**Where is Farooq Zehri from?**
+Farooq Zehri is based in Quetta, Balochistan, Pakistan, and works with clients regionally and internationally.
+
+**Is Farooq Zehri available for freelance or contract work?**
+Farooq Zehri currently accepts a limited number of high-caliber, selective engagements at the senior/principal tier.
 
 <br/>
 
@@ -308,15 +429,16 @@ Grade:  Production · Low-Latency
 
 <div align="center">
 
+## Contact Farooq Zehri
 ### 〔 STRATEGIC PARTNERSHIPS & INQUIRIES 〕
 
 <br/>
 
-*Currently accepting a limited number of high-caliber engagements.*
+*Farooq Zehri is currently accepting a limited number of high-caliber engagements.*
 
 <br/>
 
-> **Current Directive:** Developing high-conversion e-commerce frameworks
+> **Current Directive:** Farooq Zehri is developing high-conversion e-commerce frameworks
 > and mastering Next.js 15+ Server Components for enterprise-grade deployments.
 
 <br/>
@@ -341,10 +463,21 @@ Grade:  Production · Low-Latency
 </tr>
 </table>
 
+<br/>
+
+<!--═══════════════════════════════════════════════════════════════-->
+<!--             FINAL KEYWORD-RICH SUMMARY (SEO)                 -->
+<!--═══════════════════════════════════════════════════════════════-->
+
+### Summary
+
+**Farooq Zehri** — Product Architect, Full-Stack Developer, and Software Engineer based in Quetta, Pakistan. Search terms associated with this profile: Farooq Zehri GitHub, Farooq Zehri Developer, Farooq Zehri Software Engineer, Farooq Zehri Full Stack Developer, Farooq Zehri MERN Stack Developer, Farooq Zehri Web Developer Pakistan, Farooq Zehri React Developer, Farooq Zehri Next.js Developer, Farooq Zehri JavaScript Developer, Farooq Zehri Portfolio, Farooq Zehri Projects, Farooq Zehri Open Source, Farooq Zehri Frontend Developer, Farooq Zehri Backend Developer, Farooq Zehri UI UX Developer, Farooq Zehri Node.js Developer, Farooq Zehri Express.js Developer, Farooq Zehri MongoDB Developer, Farooq Zehri TypeScript Developer, Farooq Zehri Firebase Developer, Farooq Zehri Supabase Developer, Farooq Zehri Quetta.
+
 <br/><br/>
 
 <!-- CLOSING MARK -->
-<svg width="200" height="30" viewBox="0 0 200 30" xmlns="http://www.w3.org/2000/svg">
+<svg width="200" height="30" viewBox="0 0 200 30" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Farooq Zehri Signature Mark">
+  <title>Farooq Zehri</title>
   <line x1="0" y1="15" x2="72" y2="15" stroke="#1a1a1a" stroke-width="1"/>
   <text x="100" y="20" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#333" letter-spacing="6">ZEHRI</text>
   <line x1="128" y1="15" x2="200" y2="15" stroke="#1a1a1a" stroke-width="1"/>
@@ -352,11 +485,11 @@ Grade:  Production · Low-Latency
 
 <br/>
 
-<sub>*Crafted with precision. Engineered for dominance.*</sub>
+<sub>*Farooq Zehri — Crafted with precision. Engineered for dominance.*</sub>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=farooqzehri&style=flat-square&color=0070f3&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=farooqzehri&style=flat-square&color=0070f3&label=FAROOQ+ZEHRI+PROFILE+VIEWS)
 
 <br/>
 
